@@ -1,0 +1,6 @@
+{
+  "name": "EduPath",
+  "description": "AI-powered career learning navigator that analyzes your skills, maps the gaps to your target role, and delivers an adaptive learning roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
